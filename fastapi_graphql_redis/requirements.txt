@@ -2,5 +2,5 @@ fastapi
 uvicorn
 strawberry-graphql
 sqlalchemy
-psycopg2-binary
 python-dotenv
+redis
